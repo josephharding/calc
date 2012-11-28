@@ -1,0 +1,77 @@
+p {
+	margin: 5px 0px 20px 10px;
+}
+
+div,p {
+	margin-left: 10px;
+}
+
+span {
+	color: red;
+	display: inline;
+}
+
+h3 {
+	margin-left: 10px;
+}
+
+td {
+	padding:0px 40px 0px 0px;
+}
+
+#ruler { 
+	visibility: hidden;
+	white-space: nowrap;
+}
+
+#welcome {
+	font-size: 16pt;
+	margin: 5px 0px 20px 0px;
+	color: #CC5500;
+}
+
+#nameInputField {
+	width: 400px;
+}
+
+#output {
+	margin: 30px 0px 0px 30px;
+	font-size: 16pt;
+}
+
+#outputInstructions {
+	font-size: 12pt;	
+}
+
+.listEntry {
+	outline-color: black;
+	outline-style: solid;
+	outline-width: thin;
+}
+
+.paymentAmount {
+	display:inline;
+	width: 100px;
+}
+
+.paymentButtons {
+	padding: 5px 10px 5px 10px;
+}
+
+.calculateButton {
+	padding: 5px 10px 5px 10px;
+	margin: 30px 0px 10px 12px;
+	font-style: bold;
+}
+
+.resultName {
+	display:inline;
+}
+
+.resultChange {
+	display:inline;
+}
+
+.testClass {
+	display:inline;
+}
